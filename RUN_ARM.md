@@ -3,7 +3,7 @@
 ## Open the link : https://github.com/smart-methods/
 ![Capture4](https://user-images.githubusercontent.com/101976302/186154311-b97c6615-b77c-4038-9007-c5bc94ff4271.PNG)
 
-## Copy these lines into your system
+## Copy these lines into your system for noetic distro:
 
 1.cd ~/catkin_ws/src
 
@@ -26,9 +26,4 @@
 10.roslaunch robot_arm_pkg check_motors.launch
 
 # After copy this lines in Terminal 
-
-
-
-
-
-
+![Capture6](https://user-images.githubusercontent.com/101976302/186157718-bdcc5367-6607-4c54-865c-96111f59be09.PNG)
