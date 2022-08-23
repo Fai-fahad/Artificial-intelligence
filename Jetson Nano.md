@@ -15,10 +15,17 @@
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#write
 #### 1.Download, install, and launch Etcher.
 #### 2.Click “Select image” and choose the zipped image file downloaded earlier.
-### 2.Insert your microSD card. If you have no other external drives attached, Etcher will automatically select the microSD card as target device. Otherwise, click “Change” and choose the correct device.
-### 3.Click “Flash!” Your OS may prompt for your username and password before it allows Etcher to proceed.
-### 4.After Etcher finishes, eject the SD Card using Files application
-### 5.Physically remove microSD card from the computer.
+
+#### 2.Insert your microSD card. If you have no other external drives attached, Etcher will automatically select the microSD card as target device. Otherwise, click “Change” and choose the correct device.
+
+#### 3.Click “Flash!” Your OS may prompt for your username and password before it allows Etcher to proceed.
+#### 4.After Etcher finishes, eject the SD Card using Files application
+
+#### 5.Physically remove microSD card from the computer.
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (5)](https://user-images.githubusercontent.com/101976302/186137513-b4cc8ebe-8b73-4ad1-b989-de4b1ad824a2.png)
+# Follow the steps through this link
+https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#setup
+
 
 
 
