@@ -26,4 +26,9 @@
 10.roslaunch robot_arm_pkg check_motors.launch
 
 # After copy this lines in Terminal 
+
+
 ![Capture6](https://user-images.githubusercontent.com/101976302/186157718-bdcc5367-6607-4c54-865c-96111f59be09.PNG)
+![Capture8](https://user-images.githubusercontent.com/101976302/186162440-9b5f3662-1121-4551-a90c-630e39e4e717.PNG)
+![Capture7](https://user-images.githubusercontent.com/101976302/186162450-d0384701-a438-447e-b4d5-c7598bf13420.PNG)
+
