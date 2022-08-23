@@ -15,6 +15,11 @@ $ sudo apt-get install ros-noetic-rosserial
 ## $ 1.cd <sketchbook>/libraries 2.$ rm -rf ros_lib 3.$ rosrun rosserial_arduino make_libraries.py . 
 	
 ![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (12)](https://user-images.githubusercontent.com/101976302/186178069-8336f066-798d-4589-9f34-4cbe5aaddd74.png)
+	
+![Capture11](https://user-images.githubusercontent.com/101976302/186178352-42d0b2dc-4dba-4900-9ab9-df7c223fe9e1.PNG)
+	
+	
+	
 
 	
 # Upload the Arduino code
