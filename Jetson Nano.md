@@ -26,6 +26,13 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#w
 # Follow the steps through this link
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit#setup
 
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (6)](https://user-images.githubusercontent.com/101976302/186138794-528d832c-f1f5-4a5b-8289-ccdebacf3793.png)
+
+
+![Capture3](https://user-images.githubusercontent.com/101976302/186138501-e7ade04d-b23b-4942-b76a-2aa121240839.PNG)
+
+
+
 
 
 
