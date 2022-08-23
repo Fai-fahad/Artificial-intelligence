@@ -14,8 +14,8 @@ $ sudo apt-get install ros-noetic-rosserial
 ### Using the two commands
 ## $ 1.cd <sketchbook>/libraries 2.$ rm -rf ros_lib 3.$ rosrun rosserial_arduino make_libraries.py . 
 	
-  turns  (12)](https://user-images.githubusercontent.com/101976302/186175324-82c4c145-1fcf-4e0e-a86e-06395513e4ff.png)
- ![Capture11](https://user-images.githubusercontent.com/101976302/186175341-99044338-3af8-442b-8207-ee01ab6125e5.PNG)
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (12)](https://user-images.githubusercontent.com/101976302/186178069-8336f066-798d-4589-9f34-4cbe5aaddd74.png)
+
 	
 # Upload the Arduino code
 ## 1. select the Arduino port to be used on Ubuntu system
