@@ -27,6 +27,8 @@
 
 # After copy this lines in Terminal 
 
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (9)](https://user-images.githubusercontent.com/101976302/186162926-9a262d6a-05f8-40e4-bbee-7a4313c0b3dd.png)
+
 
 ![Capture6](https://user-images.githubusercontent.com/101976302/186157718-bdcc5367-6607-4c54-865c-96111f59be09.PNG)
 ![Capture8](https://user-images.githubusercontent.com/101976302/186162440-9b5f3662-1121-4551-a90c-630e39e4e717.PNG)
